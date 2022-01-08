@@ -8,7 +8,7 @@ Supervised Machine Learning
  - Deliverable 1
  - Deliverable 2
  - Deliverable 3
- - 
+ 
 * Beginning of Project
  - Deliverable 1
  
