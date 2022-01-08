@@ -39,7 +39,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - A confusion matrix has been generated (2.5 pt)
 
 - An imbalanced classification report has been generated (5 pt)
-- 
+
 # Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
 
 * There is a title, and there are multiple sections (2 pt)
