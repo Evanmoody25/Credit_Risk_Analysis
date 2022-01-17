@@ -36,16 +36,10 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 * The BalancedRandomForestClassifier algorithm does the following:
 
 - An accuracy score for the model is calculated (2.5 pt)
-- 
-![image](https://user-images.githubusercontent.com/89880015/149817198-7aa4cafa-b9e1-4fb7-9f73-b35694c963c6.png)
 
 - A confusion matrix has been generated (2.5 pt)
 
-![image](https://user-images.githubusercontent.com/89880015/149817426-b000e61f-4891-4573-b812-245fad063a4d.png)
-
 - An imbalanced classification report has been generated (5 pt)
-
-![image](https://user-images.githubusercontent.com/89880015/149817498-ced0bf7e-6076-4383-b7f5-8db409560f94.png)
 
 - The features are sorted in descending order by feature importance (5 pt)
 
@@ -103,9 +97,15 @@ An imbalanced classification report has been generated (5 pt)
 
 - An accuracy score for the model is calculated (2.5 pt)
 
+![image](https://user-images.githubusercontent.com/89880015/149817198-7aa4cafa-b9e1-4fb7-9f73-b35694c963c6.png)
+
 - A confusion matrix has been generated (2.5 pt)
 
+![image](https://user-images.githubusercontent.com/89880015/149817426-b000e61f-4891-4573-b812-245fad063a4d.png)
+
 - An imbalanced classification report has been generated (5 pt)
+
+![image](https://user-images.githubusercontent.com/89880015/149817498-ced0bf7e-6076-4383-b7f5-8db409560f94.png)
 
 - The features are sorted in descending order by feature importance (5 pt)
 
