@@ -125,3 +125,8 @@ An imbalanced classification report has been generated (5 pt)
 
 ![image](https://user-images.githubusercontent.com/89880015/149817668-a849bc38-10a5-4660-8bb9-ffc79f846548.png)
 
+# Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
+
+For all models, utlizing Balanced Random Forest Classifier has expressed the most accuracy, but I do not have a lot of personal confidence with this work. Precision was generally high accross my tests, especially when identifying bad loans but I am again, not confident in the numbers. If I were to do this again, I would want to do it with good supervision as my warning is that no decisions should be made using this analysis. 
+
+To reiterate, this is by far the project I have the least confidence in. 
